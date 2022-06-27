@@ -76,6 +76,15 @@
     .info-panel img{
         margin-right: 6%;
     }
+
+    .layanan{
+        font-family: poppins;
+        color:#334443 ;
+        font-weight: 600;
+        font-size: 30px;
+        margin-top: 70px;
+    }
+
 }
 
 /* Mobile */
