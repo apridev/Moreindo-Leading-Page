@@ -1,3 +1,3 @@
 # Moreindo-Leading-Page
 
-a digital marketing agency website landing page that looks elegant. (Unresponsive)
+Landing page Website Digital Marketing Agency yang terlihat elegan. (Tidak responsif)
